@@ -8,7 +8,7 @@ const projects = [
     title: "Hotel Booking Analysis",
     category: "Cancellation Prediction System",
     tools: "Microsoft Excel, Data Cleaning, Pivot Tables, Data Visualization",
-    image: "/photos/Hotel Booking.png",
+    image: "/images/Hotel Booking.png",
     link: "#",
     github: "https://github.com/vijsan147s/Hotel-Booking-Cancellation-Using-Data-Analysis-Excel"
   }
